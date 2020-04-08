@@ -1,0 +1,7 @@
+{
+  "name": "airways",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
